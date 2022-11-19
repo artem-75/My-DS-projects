@@ -1,5 +1,4 @@
-# My DS projects
-
+# My DS project
 From the Skillfactory Data Science course
 
 ## Projects:
