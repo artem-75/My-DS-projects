@@ -34,7 +34,7 @@ def score_game(random_predict) -> int:
     """
     
     count_ls = [] # list of number of attempts
-    np.random.seed(1) # we fix the seed for reproducibility
+    # np.random.seed(1) # we fix the seed for reproducibility
     random_array = np.random.randint(1,101,size=(1000)) # made a list of numbers
     
     for number in random_array:
