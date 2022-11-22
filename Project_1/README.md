@@ -80,4 +80,3 @@
 
 ### P.P.S.
 Python v3.10.8:aaaf517, Oct 11 2022, 16:50:30
-Дополнительно существует большой по объему [файл](https://drive.google.com/file/d/1CYroZdt7VMyr09nV0QObGjbCHygPH5bt/view?usp=share_link)
