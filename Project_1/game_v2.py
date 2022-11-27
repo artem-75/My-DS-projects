@@ -52,7 +52,9 @@ def binary_search(number: int=1) -> int:
             rigt_edge = predict_number - 1 
         else:
             break  
-        
+        if count > 20:
+            print('Exceeded the allowed number of iterations')
+            break
     return count
 
 
